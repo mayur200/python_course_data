@@ -1,0 +1,11 @@
+,Student Id,Physics,Chemistry,Maths,Branch,Total,Chemistry_result
+0,1,20.0,35.0,60.0,CSE,115.0,Fail
+1,2,25.0,89.0,56.0,IT,170.0,Pass
+2,3,30.0,24.0,20.0,EXTC,74.0,Fail
+3,4,50.0,0.0,4.0,MECH,54.0,Fail
+4,5,40.0,59.0,20.0,ELEX,119.0,Pass
+5,6,30.0,76.0,90.0,CSE,196.0,Pass
+6,7,50.0,90.0,81.0,EXTC,221.0,Pass
+7,8,34.0,64.0,0.0,RLEC,98.0,Pass
+8,9,0.0,78.0,50.0,CSE,128.0,Pass
+9,10,90.0,93.0,90.0,IT,273.0,Pass
