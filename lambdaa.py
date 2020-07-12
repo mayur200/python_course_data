@@ -4,12 +4,12 @@ def test(num):
 print(test(5))
 
 
-test = lambda num: num*num
-print(test(10))
+res = lambda num: num*num
+print(res(4))
 
 
-add = lambda a,b: num*num
-print(test(2))
+add = lambda a,b: a*b
+print(add(2,4))
 
 
 # def test(func):
@@ -17,4 +17,4 @@ print(test(2))
 	#
 
 
-test(lambda a,b: a*b)
+# test(lambda a,b: a*b)

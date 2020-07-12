@@ -30,7 +30,7 @@ emp3 = Company()
 
 
 emp1.compute_hike(200)
-emp1.change_status('erminated/suspended')
+emp1.change_status('terminated/suspended')
 emp1.employee_status()
 emp1.employee_id(1)
 
