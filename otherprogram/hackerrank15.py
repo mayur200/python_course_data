@@ -1,3 +1,6 @@
+#problem =https://www.hackerrank.com/challenges/python-tuples/problem
+#Tuples and hash()
+
 if __name__ == '__main__':
     n = int(input())
     integer_map = map(int, input().split()) 
