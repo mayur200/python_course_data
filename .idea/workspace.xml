@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="573b871e-8472-40b1-8cb2-eb56458c2ece" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank15.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/otherprogram/rough.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="342">
               <caret line="24" selection-start-line="22" selection-end-line="24" />
             </state>
           </provider>
@@ -76,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
-    <option name="y" value="6" />
+    <option name="y" value="24" />
     <option name="width" value="1269" />
     <option name="height" value="600" />
   </component>
@@ -109,7 +109,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../odoo/odoo10" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -257,11 +257,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.python" />
       <item itemvalue="Python.api_lec1" />
       <item itemvalue="Python.homework2_guess_select_correct" />
       <item itemvalue="Python.multiplication_table" />
       <item itemvalue="Python.pandas" />
+      <item itemvalue="Python.python" />
       <item itemvalue="Python.twitterapi1" />
     </list>
     <recent_temporary>
@@ -288,7 +288,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="25" width="1317" height="743" extended-state="7" />
+    <frame x="49" y="25" width="1317" height="743" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -404,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/otherprogram/rough.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="342">
           <caret line="24" selection-start-line="22" selection-end-line="24" />
         </state>
       </provider>
