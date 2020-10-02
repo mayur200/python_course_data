@@ -3,9 +3,31 @@
   <component name="ChangeListManager">
     <list default="true" id="573b871e-8472-40b1-8cb2-eb56458c2ece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.Berkeley.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/otherprogram/.~lock.test.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank10.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank11.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank12.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank13.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank14.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank15.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank16.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank17.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank18.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank19.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank2.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank20.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank21.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank22.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank23.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank3.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank4.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank5.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank6.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank7.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank8.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/hackerrank9.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/hackerrank9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/rough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/rough1.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/rough1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherprogram/webscrapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/otherprogram/webscrapping.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/otherprogram/rough.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="360">
               <caret line="24" selection-start-line="22" selection-end-line="24" />
             </state>
           </provider>
@@ -32,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/otherprogram/hackerrank23.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -101,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -117,7 +140,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,11 +293,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.python" />
       <item itemvalue="Python.api_lec1" />
       <item itemvalue="Python.homework2_guess_select_correct" />
       <item itemvalue="Python.multiplication_table" />
       <item itemvalue="Python.pandas" />
+      <item itemvalue="Python.python" />
       <item itemvalue="Python.twitterapi1" />
     </list>
     <recent_temporary>
@@ -303,20 +325,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1317" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2703583" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2703583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3110749" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3110749" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -401,8 +422,23 @@
     <entry file="file://$PROJECT_DIR$/otherprogram/removeatith.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file:///usr/lib/python3.6/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abcd.py" />
     <entry file="file://$PROJECT_DIR$/otherprogram/sample.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otherprogram/rough.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="22" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pandas_test.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -414,27 +450,10 @@
     <entry file="file://$PROJECT_DIR$/pandas_test2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/otherprogram/rough.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" selection-start-line="22" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abcd.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/otherprogram/hackerrank23.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
