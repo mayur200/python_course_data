@@ -4,13 +4,13 @@ If the guess number by user is correct then print "Your guess is correct" if the
  do this until user give correct answer
  '''
 
-a=0
-right=20
-while a!=right:
-    a=int(input("Guess the number: "))
-    if a < right:
+num=0
+correct_number=20
+while num!=correct_number:
+    num=int(input("Guess the number: "))
+    if num < correct_number:
         print("Your guess was less than the answer")
-    elif a > right:
+    elif num > correct_number:
         print("Your guess was greater than the answer")
-if a == right:
-	print("Your guess is correct")
+if num == correct_number:
+    print("Your guess is correct")
